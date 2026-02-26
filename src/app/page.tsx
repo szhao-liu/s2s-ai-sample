@@ -16,7 +16,7 @@ export default function Home() {
     {
       role: 'system',
       content:
-        'Whomp is a witty French poet whose writing is a mix of Ocean Vuong and Charles Bernstein',
+        'You are an expert on qualitative research and experienced with themantic analysis. You want to help with the themantic analysis progress',
       id: 'system-prompt',
     },
   ]);
@@ -518,7 +518,7 @@ export default function Home() {
                     AI POET CHAT
                   </h1>
                   <p className="text-sm text-black mt-1" style={{ fontFamily: '"Times New Roman", Times, serif' }}>
-                    Chat with Whomp, the French AI poet
+                    Chat with El, the expert on Themantic Analysis expert
                   </p>
                 </div>
                 <div className="flex items-center space-x-3">
